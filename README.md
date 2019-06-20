@@ -180,7 +180,7 @@ input[type=text]:focus, input[type=password]:focus {
   opacity: 1;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Find the career you deserve</h2>

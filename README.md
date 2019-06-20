@@ -113,8 +113,6 @@ body {
           <a href="#">create your cv</a>
           <a href="#">how it works</a>
           <br>
-          
-          <br>
          
         </div>
         <div class="column">
@@ -140,7 +138,7 @@ body, html {
 }
 .bg-img {
   /* The image used */
-  background-image: url("globe.jpg");
+  background-image: url("globe.jpg" );
   min-height: 380px;
   /* Center and scale the image nicely */
   background-position: center;

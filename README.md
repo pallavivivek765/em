@@ -136,7 +136,7 @@ body, html {
 .bg-img {
   /* The image used */
   background-image: url("globe.jpg" );
-  min-height: 450px;
+  min-height: 550px;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;

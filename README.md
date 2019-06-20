@@ -112,7 +112,7 @@ body {
           <a href="#">company search</a>
           <a href="#">create your cv</a>
           <a href="#">how it works</a>
-          <br>
+          
          
         </div>
         <div class="column">
